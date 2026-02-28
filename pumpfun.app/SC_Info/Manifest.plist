@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SinfPaths</key>
+	<array>
+		<string>SC_Info/pumpfun.sinf</string>
+	</array>
+	<key>SinfReplicationPaths</key>
+	<array>
+		<string>Frameworks/FullStory.framework/SC_Info/FullStory.sinf</string>
+		<string>Frameworks/GiphyUISDK.framework/SC_Info/GiphyUISDK.sinf</string>
+		<string>Frameworks/Intercom.framework/SC_Info/Intercom.sinf</string>
+		<string>Frameworks/OpenSSL.framework/SC_Info/OpenSSL.sinf</string>
+		<string>Frameworks/OpenTelemetryApi.framework/SC_Info/OpenTelemetryApi.sinf</string>
+		<string>Frameworks/WebRTC.framework/SC_Info/WebRTC.sinf</string>
+		<string>Frameworks/hermes.framework/SC_Info/hermes.sinf</string>
+		<string>SC_Info/pumpfun.sinf</string>
+	</array>
+</dict>
+</plist>
